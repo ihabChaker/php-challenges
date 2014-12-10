@@ -7,12 +7,12 @@ You have been supplied with a book in `txt` format called `polnoe-esenin.txt`. Y
 
 **Example**
 
-`json
+```json
 {'the' : 56,
-'example' : 16,
-'blue-tit' : 4,
-'wings' : 75}
-`
+'banana' : 16,
+'example' : 4,
+'minions' : 75}
+```
 
 ## Notes
 
