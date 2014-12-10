@@ -8,10 +8,10 @@ You have been supplied with a book in `txt` format called `polnoe-esenin.txt`. Y
 **Example**
 
 ```json
-{'the' : 56,
-'banana' : 16,
-'example' : 4,
-'minions' : 75}
+{"the" : 56,
+"banana" : 16,
+"example" : 4,
+"minions" : 75}
 ```
 
 ## Notes
