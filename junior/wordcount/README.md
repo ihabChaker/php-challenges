@@ -16,5 +16,4 @@ You have been supplied with a book in `txt` format called `polnoe-esenin.txt`. Y
 
 ## Notes
 
- - The book is in Russian, intentionally, to see how you handle UTF-8 (*Also, Esenin was a great poet*).
- - Think about *regular expressions*
+ - The book is in Russian Cyrillic, intentionally, to see how you'll handle UTF-8 (*Also, Esenin was a great poet*).
